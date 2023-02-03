@@ -1,17 +1,29 @@
+  /* versione mobile */
+
+
+
 @media screen and (max-width: 479px) {
     .text-center {
       text-align: center;
-      width: 100%;
 
     }
   }
+
+  @media screen and (max-width: 479px) {
+    .main {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+       
+    }
+}
 
   
   
 
   @media screen and (max-width: 479px) {
     .container {
-        width: 479px;
+        width: 100%;
         margin: 0 auto;
         padding: 0 20px;
        
@@ -23,7 +35,24 @@
         display: flex;
         flex-direction: column;
         width: 100%;
+        align-items: center;
     }
   }
+
+
+  @media screen and (max-width: 479px) {
+    .steps .col {
+        width: 100%;
+        margin: 20px;
+    }
+  }
+
+  /* versione tablet */
+
+ 
+    
+  
+
+
 
   
