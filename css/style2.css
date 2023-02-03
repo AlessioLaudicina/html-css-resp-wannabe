@@ -2,14 +2,14 @@
 
 
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 576px) {
     .text-center {
       text-align: center;
 
     }
   }
 
-  @media screen and (max-width: 479px) {
+  @media screen and (max-width: 576px) {
     .main {
         width: 100%;
         margin: 0 auto;
@@ -21,7 +21,7 @@
   
   
 
-  @media screen and (max-width: 479px) {
+  @media screen and (max-width: 576px) {
     .container {
         width: 100%;
         margin: 0 auto;
@@ -30,7 +30,7 @@
     }
   }
 
-  @media screen and (max-width: 479px) {
+  @media screen and (max-width: 576px) {
     .row {
         display: flex;
         flex-direction: column;
@@ -40,7 +40,7 @@
   }
 
 
-  @media screen and (max-width: 479px) {
+  @media screen and (max-width: 576px) {
     .steps .col {
         width: 100%;
         margin: 20px;
@@ -48,6 +48,49 @@
   }
 
   /* versione tablet */
+
+
+  @media screen and (max-width: 768px) {
+    .text-center {
+      text-align: center;
+
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .steps {
+        width: 100%;
+    }
+  }
+
+  
+
+
+  @media screen and (max-width: 992px) {
+    .text-center {
+      text-align: center;
+
+    }
+  }
+
+  @media screen and (max-width: 992px) {
+    .container {
+        width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 992px) {
+    .steps {
+        width: 100%;
+    }
+  }
+  
 
  
     
