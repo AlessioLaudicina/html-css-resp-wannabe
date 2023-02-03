@@ -72,20 +72,20 @@
   
 
 
-  @media screen and (max-width: 992px) {
+  @media screen and (max-width: 1024px) {
     .text-center {
       text-align: center;
 
     }
   }
 
-  @media screen and (max-width: 992px) {
+  @media screen and (max-width: 1024px) {
     .container {
         width: 100%;
     }
   }
 
-  @media screen and (max-width: 992px) {
+  @media screen and (max-width: 1024px) {
     .steps {
         width: 100%;
     }
