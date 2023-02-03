@@ -1,7 +1,29 @@
-@media screen and (max-width: 480px) {
-    header {
+@media screen and (max-width: 479px) {
+    .text-center {
       text-align: center;
       width: 100%;
-      
+
     }
   }
+
+  
+  
+
+  @media screen and (max-width: 479px) {
+    .container {
+        width: 479px;
+        margin: 0 auto;
+        padding: 0 20px;
+       
+    }
+  }
+
+  @media screen and (max-width: 479px) {
+    .row {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+  }
+
+  
