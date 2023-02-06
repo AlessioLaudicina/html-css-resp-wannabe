@@ -9,14 +9,7 @@
     }
   }
 
-  @media screen and (max-width: 576px) {
-    .main {
-        width: 100%;
-        margin: 0 auto;
-        padding: 0 20px;
-       
-    }
-}
+
 
   
   
@@ -32,7 +25,6 @@
 
   @media screen and (max-width: 576px) {
     .row {
-        display: flex;
         flex-direction: column;
         width: 100%;
         align-items: center;
@@ -46,6 +38,24 @@
         margin: 20px;
     }
   }
+
+  @media screen and (max-width: 576px) {
+    .lessons .text {
+        text-align: left;
+    }
+  }
+
+  @media screen and (max-width: 576px) {
+    .lessons .title {
+        text-align: left;
+    }
+  }
+
+
+
+
+
+
 
   /* versione tablet */
 
